@@ -5,5 +5,5 @@
 **Developer passionate by front end architecture, componentization and styleguide. Love to work with angularjs, sass, jekyll, svg and gulp.**
 
 **Location:** São Paulo -SP. Brasil. 
+
 **Blog:** [:zap: Raio Frontendizador](http://jotateles.com.br)
-**E-mail:** josetelesmaciel[a]gmail.com
